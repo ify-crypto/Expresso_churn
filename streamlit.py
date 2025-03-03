@@ -4,7 +4,7 @@ import pandas as pd
 import joblib
 import warnings
 warnings.filterwarnings('ignore')
-import plotly .express as px
+# import plotly .express as px
 
 # st.title('Expresso churn')
 # st.subheader('Built by Ifeyinwa')
